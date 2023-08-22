@@ -32,4 +32,4 @@ You can view the live demo of the project [here](https://youtu.be/ZC6OZBcB8kc).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aryansethi20/hotstar-clone.git
+   git clone https://github.com/AryanSethi20/disney-hotstar-clone.git
